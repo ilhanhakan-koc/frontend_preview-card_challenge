@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-preview-card-challenge---1trC7n-)
+- Live Site URL: [Live demo](https://htmlpreview.github.io/?https://github.com/ilhanhakan-koc/frontend_preview-card_challenge/blob/main/index.html)
 
 ## My process
 
